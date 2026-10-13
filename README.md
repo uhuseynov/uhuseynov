@@ -8,9 +8,9 @@ My main tools include Python, C, C++, Git, Linux, Docker.
 
 ## Fun facts
 
-- I'm a violinist 🎻
-- I enjoy playing chess ♟️
-- I do sports, and swimming is one of my favorites 🏊
+- I'm a violinist.
+- I enjoy playing chess.
+- I do sports, and swimming is one of my favorites.
 
 ## Contact
 
