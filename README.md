@@ -1,10 +1,16 @@
 ## Hi there 👋
 
-I'm Umid, a career-ready Computer Science student at Constructor University in Bremen. I'm interested in software engineering, AI, and building useful things.
+I'm Umid, a Computer Science student at Constructor University in Bremen. I'm interested in software engineering and AI, and I like building things that people can actually use.
 
-I'm currently working on a team project for Wikipedia vector search and RAG, and I help students as a Teaching Assistant for Software Development and Operations.
+**What I've been building**
 
-My main tools include Python, C, C++, Git, Linux, Docker.
+- [Pulse](https://github.com/uhuseynov/pulse): real-time chat, voice and video for communities ([live demo](https://pulse-mauve-pi.vercel.app))
+- [Wikipedia Vector Search & RAG](https://github.com/uhuseynov/UEZA-databases-project): retrieval over a Wikipedia corpus with MariaDB's native vector type
+- [AWS Cert Finder](https://github.com/uhuseynov/aws-cert-finder): a quiz that recommends AWS certifications, used at a student event
+
+I also work as a Teaching Assistant for Software Development and Operations.
+
+**Tools:** Python, TypeScript, C, C++, SQL, Git, Linux, Docker
 
 ## Fun facts
 
@@ -14,4 +20,4 @@ My main tools include Python, C, C++, Git, Linux, Docker.
 
 ## Contact
 
-Email me at (uhuseyn1@outlook.com) and connect on [LinkedIn](https://www.linkedin.com/in/uhuseynov/).
+Email me at [uhuseyn1@outlook.com](mailto:uhuseyn1@outlook.com) or connect on [LinkedIn](https://linkedin.com/in/uhuseynov).
